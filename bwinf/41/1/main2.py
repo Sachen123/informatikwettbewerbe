@@ -2,7 +2,7 @@ import re
 
 # sets the filename for the book and the task
 bookfile = "Alice_im_Wunderland.txt"
-taskfile = "stoerung0.txt"
+taskfile = "stoerung5.txt"
 
 # reading the book and the task
 book = open(bookfile, encoding="utf-8").read().split()

@@ -1,6 +1,7 @@
 import re
 
 filename = "Alice_im_Wunderland.txt"  # "Alice_im_Wunderland.txt"
+taskname = "stoerung" + "1" + ".txt"
 
 buch = open(filename, encoding="utf-8").read().split()
 buch2 = open(filename, encoding="utf-8").read().split()

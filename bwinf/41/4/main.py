@@ -11,7 +11,7 @@ for i in range(len(task)):
 
 
 def methode1():
-    
+    pass
 
 
 def methode2():
